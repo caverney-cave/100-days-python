@@ -1,10 +1,10 @@
-# Day 001: Learned variables and some functions.
+# Day 002: Learned data types, mathematical opertaions, and f-strings.
 
 ## Project
-Create a simple band name generator.
+Create a simple tip calculator.
 
 ## What I learnt:
-- print(): to print to the console
-- input(): to get the input from the console
-- len(): to count the length of the strings?
-- how to create variable and how to name it
+- type():checking data type
+- converting data type
+- round(): round the floating number to the nearest
+- simplify printing by adding f before ""
