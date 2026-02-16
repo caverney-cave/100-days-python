@@ -1,5 +1,4 @@
 # Day 005: Learned for loop, and range.
 
 Built a password generator using loops and random choice.
-It works. Code feels messy but understandable.
-Learned how to shuffle and join lists.
+This program generates a random password based on user input by selecting, shuffling, and combining characters from predefined lists.
