@@ -1,6 +1,22 @@
+# IDE
 .idea/
+.vscode/
 *.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
 __pycache__/
-*.pyc
-.env
+*.py[cod]
 venv/
+.env/
+
+# Web
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
